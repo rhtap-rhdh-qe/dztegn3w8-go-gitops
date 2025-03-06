@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: dztegn3w8-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/dztegn3w8-go-gitops
